@@ -1,3 +1,4 @@
+// ==UserScript==
 // @name         Be Anon FB
 // @version      1.0.0
 // @description  Anonymous Facebook story viewing by suppressing story-seen GraphQL mutations (XHR + Fetch)
@@ -9,6 +10,7 @@
 // @run-at       document-start
 // @grant        none
 // @inject-into  page
+// ==/UserScript==
 
 (() => {
 	if (typeof window !== "object" || typeof XMLHttpRequest !== "function") {
