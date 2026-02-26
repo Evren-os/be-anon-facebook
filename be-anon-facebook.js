@@ -9,7 +9,6 @@
 // @match        *://*.messenger.com/*
 // @run-at       document-start
 // @grant        none
-// @inject-into  page
 // ==/UserScript==
 
 (() => {
