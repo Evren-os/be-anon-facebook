@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Be Anon FB
-// @version      1.0.0
+// @version      1.1.0
 // @description  Anonymous Facebook story viewing by suppressing story-seen GraphQL mutations (XHR + Fetch)
 // @license      MIT
 // @author       Evrenos
